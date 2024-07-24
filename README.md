@@ -1,1 +1,1 @@
-hướng dẫn sử dụng github **edit trên github
+hướng dẫn sử dụng github **edit trên my computer
